@@ -1,6 +1,3 @@
-# Outline
-Jekyll site, practice and projects, leading up to 2019 Fab Academy. Hopefully.
-
 # Posts:
 
 ## June 3rd, Dawn of the first day
